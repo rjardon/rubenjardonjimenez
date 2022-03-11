@@ -12,4 +12,4 @@
 		en que día y a que hora se encuentra ese número de alumnos.
 		
 		
-	Autor: Rubén Jardón Jiménez
+	Autor: Rubén Jardón 
