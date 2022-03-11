@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class Principal {
 
-	public static Scanner teclado = new Scanner (System.in);
+	public static Scanner teclado = new Scanner (System.in);//escaner
 	public static int min = 10;//variable de los alumnos mínimos
 	public static int max = 20;//variable de los alumnos máximos
 	
@@ -183,6 +183,5 @@ public class Principal {
 		    if(encontrado = false) {
 			System.out.println("Se te va la cabeza.");
 		}
-	
 	}
 }
