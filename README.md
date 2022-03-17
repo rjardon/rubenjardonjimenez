@@ -12,4 +12,6 @@
 		en que día y a que hora se encuentra ese número de alumnos.
 		
 		
+	Para más información visita mi WIKI.
+	
 	Autor: Rubén Jardón Jiménez
